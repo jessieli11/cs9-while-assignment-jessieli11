@@ -12,10 +12,8 @@ Hunter
 
 '''
 num =int(input("Times to print: "))
-timesprinted = 0
 
 while num > 0:
   num = num - 1
-  timesprinted = num
   print("Hunter")
 
